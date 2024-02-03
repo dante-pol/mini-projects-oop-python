@@ -1,5 +1,5 @@
 class Spell:
-    def __init__(self,):
+    def __init__(self, name, description, mana):
         self.__name = name
         self.__description = description
         self.__size_mana = size_mana
