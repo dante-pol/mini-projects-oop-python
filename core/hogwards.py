@@ -7,4 +7,4 @@ class Hogwards:
 
     def teach_spell(self, spell): pass
 
-    def simulate_duel(self, meat1, meat2): pass
+    def simulate_duel(self): pass
